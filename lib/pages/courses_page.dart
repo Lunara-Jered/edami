@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_pdfview/flutter_pdfview.dart';
-import '../video_player_widget.dart';
+import 'video_player_widget.dart';
 
 class CoursesPage extends StatelessWidget {
   final List<Map<String, String>> courses = [
