@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'pages/coursespage.dart';
+import 'pages/courses_page.dart';
 
 void main() {
   runApp(EdamiApp());
