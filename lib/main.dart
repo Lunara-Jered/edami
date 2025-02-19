@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'pages/home_page.dart';
+import 'pages/coursespage.dart';
 
 void main() {
   runApp(EdamiApp());
@@ -12,7 +12,7 @@ class EdamiApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Edami',
       theme: ThemeData(primarySwatch: Colors.blue),
-      home: HomePage(),
+      home: CoursesPage(),
     );
   }
 }
